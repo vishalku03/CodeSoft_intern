@@ -4,16 +4,14 @@ Welcome to my portfolio! This repository contains a collection of my portfolio. 
 
 ## Skills
 
-- Programming languages: C, C++, JavaScript, Java
-- Web development: HTML, CSS
+- Programming languages: C, C++, JavaScript, Java, DSA
+- Web development-> MERN stack =  html , css, javascript , mongoDB , expressJS , Nodejs , React
 - Tools: Git
 - Other skills...
 
 ## Contact
 
-- LinkedIn:https://www.linkedin.com/in/sahul54/
-- Email: ksahul9576@gmail.com
+- https://www.linkedin.com/in/vishal-shrivastava-2845082aa
+- Email: vishalk000123@gmail.com
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
